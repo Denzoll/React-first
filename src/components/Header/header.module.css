@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  height: 82px;
+}
+
+.counter {
+  margin-left: 26%;
+}
+
+.header_menu {
+  margin-left: 10%;
+  display: flex;
+  justify-content: space-between;
+  width: 29%;
+}
